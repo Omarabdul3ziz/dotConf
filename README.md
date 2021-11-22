@@ -1,3 +1,4 @@
 # Configuration files
 
-- [Bash](./.bashrc)
+- [Bash](./bash/)
+- [Tmux](./tmux/)
